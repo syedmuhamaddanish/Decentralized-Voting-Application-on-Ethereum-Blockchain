@@ -1,0 +1,21 @@
+{
+  "name": "voting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.1",
+    "express": "^4.18.2",
+    "express-fileupload": "^1.4.0",
+    "hardhat": "^2.13.0",
+    "path": "^0.12.7"
+  }
+}
